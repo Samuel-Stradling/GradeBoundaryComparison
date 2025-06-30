@@ -23,7 +23,7 @@ This project is a website that allows users to explore how both **GCSE** and **A
 
 ## Getting Started
 
-Instructions on how to run the site locally or deploy it (coming soon).
+❌**Instructions on how to run the site locally or deploy it (coming soon).**
 
 ## Contributions
 
