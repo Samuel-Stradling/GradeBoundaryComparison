@@ -1,0 +1,6 @@
+Need a database to store exam grade boundaries for each exam board:
+    - store grade boundaries for each exam board, for each year, for both GCSE and A Level
+
+Need a backend to handle requests to the database to retrieve the data.
+
+Need a front end to display (importantly) the graphs and data, and have interactivity on the site
