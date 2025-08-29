@@ -1,0 +1,29 @@
+header {
+  background-color: #eecdcd;
+  color: white;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.header-text {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+.icon-image {
+  width: 40px;
+  height: 40px;
+  padding-left: 40px;
+  padding-top: 5px;
+}
