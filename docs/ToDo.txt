@@ -5,3 +5,5 @@
 [ ]     Make the front end look nice and fully functional
 [ ]     Implement a comment system to allow for user feedback and suggestions
 [ ]     Host the website publicly
+
+[ ]     Change site icon (maybe make one)
