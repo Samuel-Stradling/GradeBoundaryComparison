@@ -1,5 +1,5 @@
 header {
-  background-color: #eecdcd;
+  background-color: #f2d9d9;
   color: white;
   display: flex;
   align-items: center;
@@ -22,8 +22,8 @@ header {
 }
 
 .icon-image {
-  width: 40px;
-  height: 40px;
-  padding-left: 40px;
-  padding-top: 5px;
+  width: 50px;
+  height: 50px;
+  padding-left: 10px;
+  padding-top: 1px;
 }
